@@ -1,0 +1,118 @@
+body {
+    margin-bottom: 0px;
+    padding: 0px;
+    background-image:url(img/kopi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    font-family: sans-serif;
+    
+    } 
+    
+    h1{
+    height: -90vh; 
+    margin-top: 0px;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+    }
+    .produke{
+        align-items: center;
+        text-align: center;
+    }
+    .card-img-top{
+       width: 300px;
+       height: 300px; 
+       align-items: center;
+       align-content: center;
+    }
+
+    .login-box{
+       width: 400px;
+       height: 500px;
+       background: rgba(0, 0, 0, 0.5);
+       color:#fff;
+       top: 50%;
+       left: 50%;
+       position: absolute;
+       padding: 70px;
+       transform: translate(-50%,-50%);
+    }
+    .avatar{
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+        position: absolute;
+        top: -50px;
+        left: calc(50% -50px);
+        size: 50px;
+        left: 25%;
+        right: 30%;
+       
+    }
+    .avatar1{
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+        position: center;
+        top: -50px;
+        left: calc(50% -50px);
+        size: 50px;
+        left: 25%;
+        right: 30%;
+       
+    }
+    .avatar2{
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+        position: center;
+        top: -50px;
+        left: calc(50% -50px);
+        size: 50px;
+        left: 150%;
+        right: 50%;
+     
+   
+    }
+    .tabele{
+        height: -150px;
+        size: 100px;
+    }
+    
+    
+    .tabel{
+        height: 50px;
+    }
+    
+    .satu{
+        left: 40%;
+    }
+    .regis{
+        width: 500px;
+        height: 350px;
+        background: rgba(0, 0, 0, 0.5);
+        color:#fff;
+        top: 50%;
+        left: 50%;
+        position: absolute;
+        padding: 70px;
+        transform: translate(-50%,-50%);
+    }
+   
+    
+    
+    img{
+        width: 200px;
+        height: 100px;
+        margin-top: 50px;
+    }
+    
+    
+    .register{
+        background-image: url(img/laptop1.jpg);
+        background-size: cover;
+        height: 660px;
+    }

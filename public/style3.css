@@ -1,0 +1,11 @@
+
+img {
+    top: 50px;
+    width: 200px;
+    height: 200px;
+    left: calc(50% -50px);
+    border-radius: 100%;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
